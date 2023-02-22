@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+   
+  }
+  .content{
+text-align: left;
+justify-content: flex;
+
+  }
+
+  nav{
+    text-align: center;
+    padding: 10px 1px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  
+  }
+ nav ul{
+  text-align: right;
+  list-style: none;
+
+
+ }
+ nav ul li{
+  display: inline-block;
+  justify-content: space-between;
+  
+
+ }
+ nav ul li a{
+  text-decoration: none;
+  
+ }
+ image{
+  width: 100%;
+  height: 50%;
+  margin: left;
+  position: left;
+  float: right;
+ }
+ button{
+text-align: right;
+margin: 10%;
+padding: 0 5px;
+
+ }
+ text{
+color: solid blue;
+
+ }
+ 
+ 
+
+
+  
+  
+  
+  
